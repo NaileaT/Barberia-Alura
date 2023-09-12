@@ -1,0 +1,41 @@
+.input-titulo{
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.input-padron {
+    box-sizing: border-box;
+    font-size: 1.25rem;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    background-color: #fff;
+    border-radius: 4px;
+    border: none;
+    border-bottom: solid 2px gray;
+    width: 656px;
+    height: 58px;
+    position: relative;
+    padding-top: 20px;
+}
+
+.input-padron-caja {
+    border: solid black;
+    border-radius: 10px;
+    border-color: black;
+    position: relative;
+    display: block;
+}
+.legend-1 {
+    padding-top: 30px;
+}
+
+.main {
+padding-left: 120px;
+}
